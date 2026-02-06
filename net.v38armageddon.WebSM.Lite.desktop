@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=WebSM.Lite
+Exec=WebSM.Lite
+Icon=net.v38armageddon.WebSM.Lite
+Terminal=false
+Categories=Network
+Comment=A simple minimalist web browser based on Uno Platform.
